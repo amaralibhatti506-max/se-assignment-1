@@ -14,5 +14,3 @@ Demo users (classroom only): admin / admin123 (admin), employee / emp123 (employ
 
 - Authentication = who are you? No/invalid token or bad login -> **401**
 - Authorization = what may you do? Valid user, wrong role -> **403**
-
-Demo video: (add file or link here)

@@ -8,4 +8,3 @@ SQLite file `students.db` and the `students` table (id, name, department, email)
 
 Endpoints: GET /students, GET /students/<id>, POST /students, PUT /students/<id>, DELETE /students/<id>
 
-Demo video: (add file or link here)

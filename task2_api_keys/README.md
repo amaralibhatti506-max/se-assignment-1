@@ -13,5 +13,4 @@ curl -X POST http://127.0.0.1:5001/process -H "Content-Type: application/json" \
 - Valid key -> 200 with uppercase text
 - Missing key -> 401, invalid key -> 403
 
-Keys are shared privately with 3 testers (never committed or shown in public screenshots).
-Demo video: (add file or link here)
+Keys are shared privately with 3 testers
